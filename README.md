@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello-React-Rails-Front</b></h3>
+  <h3><b>Hello-React-Rails-Back</b></h3>
 
 </div>
 
@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello-Rails-React-Front] <a name="about-project"></a>
+# 📖 [Hello-Rails-React-Back] <a name="about-project"></a>
 
-**[Hello-Rails-React-Front]** is an app created using RUBY on RAILS as back end. It displays a random message retrieved from the api. [Link to Front-End repo](https://github.com/erickhansx/rails-react-front)
+**[Hello-Rails-React-Back]** is an app created using RUBY on RAILS as back end. It displays a random message retrieved from the api. [Link to Front-End repo](https://github.com/erickhansx/rails-react-front)
 
 ## 🛠 Built With <a name="built-with"></a>
 
